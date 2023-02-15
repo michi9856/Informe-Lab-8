@@ -1,5 +1,9 @@
 # Informe-Lab-8
 
+## 3. Marco Teorico
+
+![image](https://user-images.githubusercontent.com/116813974/219183576-eb7e55d3-2314-4102-b50d-586f62aded81.png)
+
 ## 4. Materiales y equipos requeridos
 
 ![image](https://user-images.githubusercontent.com/116761073/219076437-1f5beef5-38cd-4ba5-89b1-259028932692.png)
