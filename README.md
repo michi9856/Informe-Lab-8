@@ -15,17 +15,16 @@
 
 
 ### OBJETIVO GENERAL
-• Analizar las diferencias entre un inductor y capacitor, así como también la simbología que tiene cada uno, de igual manera diferenciarlos en los circuitos y buscar un simulador online adecuado para desarrollar el informe y responder a las preguntas planteadas con la ayuda de este.
-
+• Conocer el funcionamiento de las Ondas senoidales y poderlas aplicar de manera correcta tanto en forma práctica mediante el simulador DCACLAB como de forma teorica.
 ### OBJETIVOS ESPECIFICOS
 
-• Verificar el comportamiento de la bobina y el capacitor en circuitos DC.
+• Aplicar los conocimientos impartidos en clase sobre Ondas senoidales y ponerlos en práctica mediante este laboratorio.
 
-• Verificar el comportamiento de la bobina y el capacitor en circuitos AC.
+• Conocer el concepto fundamental de ondas senoidales y entender como se aplican en eléctrica y electrónica.
 
-• Verificar las combinaciones serie y paralelo de bobinas y capacitores.
+• Aprender cómo obtener una Onda senoidal mediante diferentes formas y mediante algunos aparatos aptos para esto.
 
-• Familiarizarse con el uso de instrumentos de medida.
+• Conocer las partes por la que está formada una Onda senoidal para tener un mejor entendimiento a la hora de ponerlas en práctica.
 
 ## 3. Marco Teorico
 
