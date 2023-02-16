@@ -1,4 +1,4 @@
-# Informe-laboratorio-7
+# Informe-laboratorio-8
 
 ## Fundamento de circuitos electricos
 
@@ -105,5 +105,29 @@ fn: 2500 (Hz)
 8.5.8. Comparar el voltaje medido en el punto 8.5.5. y el obtenido en el punto 8.5.7.
 
 No coinciden, esto se debe a que el osciloscopio da el valor del voltaje pico, mientras que el multimetro da un valor eficas es decir Vrms, esto pasa puesto que el multimetro da el 71% del valor del voltjae pico, si se quiere obtener el valor que da el osiloscpoio se debe usar la siguiente fórmula Vp = Vrms(0.707), reemplazando los valores Vp = 4.833(0.707), nos da Vp = 6.9 V que es el valor que da el osiloscopio.
+
+# 4. VIDEO
+
+https://www.youtube.com/watch?v=X5CGR1Cdeak
+
+# 5. CONCLUSIONES
+• Al haber realizado la práctica de laboratorio concluimos que una Onda senoidal es muy útil en Corriente Alterna para poder representar el valor de la tensión a través de un tiempo continuamente variable.
+
+• Aprendimos que existen varias formas de obtener una Senoidal a más del Osciloscopio que fue el que usamos en esta práctica de laboratorio como el Oscilador de Wein.
+
+• También observamos que para el manejo de ondas senoidales el osciloscopio va a tener mayor precisión que el multímetro debido a que el diseño de este fue creado para medir corrientes alternas y nos va permitir encontrar los valores y formas adecuadas.
+
+• Con esta práctica aprendimos a usar un poco más el Osciloscopio y a dominar valores como voltaje pico, frecuencia de la tensión y la fabricación de ondas senoidales.
+
+• Observamos la gran diferencia de medidicion del multimetro en el simulador en cual nos entrega en rms mientras que en el osciloscopio podemos emdir con mas precision.
+
+• LLegamos a las conclusion que el ocsiloscopio es una herramienta para medir de forma cualitativa y cuantitativa a diferencia del multimetro que es una analogo
+
+# 6. BIBLIOGRAFIA
+
+Floyd, T. (2007). Principios de circuitos electricos. PEARSON Educación. https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
+
+García, A. (29 de marzo de 2021). Ley de corriente de Kirchhoff: Análisis de nodos. Panamahitek. Recuperado de http://panamahitek.com/ley-de-las-corrientes-de-kirchhoff-metodo-de-nodos/
+
 
 
