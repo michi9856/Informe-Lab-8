@@ -1,4 +1,31 @@
-# Informe-Lab-8
+# Informe-laboratorio-7
+
+## Fundamento de circuitos electricos
+
+### Ingeniero Darwin Omar Alulema Flores
+
+### Integrantes:
+•	Michael Bryan Toroche Quishpe 
+
+•	Jhon Steven Quingatuña Moreano
+
+•	 Anthony Javier Cevallos Ramirez
+
+# 1. OBJETIVOS
+
+
+### OBJETIVO GENERAL
+• Analizar las diferencias entre un inductor y capacitor, así como también la simbología que tiene cada uno, de igual manera diferenciarlos en los circuitos y buscar un simulador online adecuado para desarrollar el informe y responder a las preguntas planteadas con la ayuda de este.
+
+### OBJETIVOS ESPECIFICOS
+
+• Verificar el comportamiento de la bobina y el capacitor en circuitos DC.
+
+• Verificar el comportamiento de la bobina y el capacitor en circuitos AC.
+
+• Verificar las combinaciones serie y paralelo de bobinas y capacitores.
+
+• Familiarizarse con el uso de instrumentos de medida.
 
 ## 3. Marco Teorico
 
